@@ -1,0 +1,1 @@
+Multithreaded server can handle multiple clients. Multithreaded server is more efficient than singlethread server.
